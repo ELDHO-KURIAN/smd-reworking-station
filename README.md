@@ -4,4 +4,4 @@ this project aims to create an open source hot air station(smd reworking station
 <image src="images/IMG_20200725_164713.jpg" width="500">
   
 # WIRING
-  
+ <image src="images/Schematic.png" width="500"> 
