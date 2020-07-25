@@ -1,5 +1,5 @@
 # smd-reworking-station
-this project aims to create an open source hot air station(smd reworking station),this project is not perfect and anyone is free to use this amd make it better this machine works based on pid to maintain the temperature accurately
+this project aims to create an open source hot air station(smd reworking station),this project is not perfect and anyone is free to use this and make it better this machine works based on pid to maintain the temperature accurately
 
 <image src="images/IMG_20200725_164713.jpg" width="500">
   
