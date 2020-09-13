@@ -46,7 +46,7 @@ after soldering it should look something like this :
 
 <image src="images/IMG_20200725_205303.jpg" width="500"> 
 
-**for more help or assistance contact me at iinsanescience@gmail.com**
+**for more help or assistance contact me at eldhokurian123456789@gmail.com**
 
 # if you want to support me
 paypal.me/eldhokurianatom
